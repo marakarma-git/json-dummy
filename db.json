@@ -1,18 +1,46 @@
 
 {
-    "employee": [
-        {
-            "id" : 1,
-            "username": "marakarma",
-            "firstname": "Mara",
-            "lastname": "Karma",
-            "email": "marakarm36@gmail.com",
-            "birthdate": "17/02/1995",
-            "basicsalary": "17.000.000",
-            "status": "Kontrak",
-            "group": "IT Developer",
-            "description": "description"
-        }
-    ]
-
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+        "id" : 1,
+        "username": "marakarma",
+        "firstname": "Mara",
+        "lastname": "Karma",
+        "email": "marakarm36@gmail.com",
+        "birthdate": "17/02/1995",
+        "basicsalary": "17.000.000",
+        "status": "Kontrak",
+        "group": "IT Developer",
+        "description": "description"
+    }
+  ]
 }
