@@ -36,11 +36,23 @@
         "firstname": "Mara",
         "lastname": "Karma",
         "email": "marakarm36@gmail.com",
-        "birthdate": "17/02/1995",
-        "basicsalary": "17.000.000",
-        "status": "Kontrak",
+        "birthdate": "17 Feb 1995",
+        "basicsalary": "salary",
+        "status": "contract",
         "group": "IT Developer",
-        "description": "description"
-    }
+        "description": "quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto"
+    },
+    {
+      "id" : 2,
+      "username": "riniperdana",
+      "firstname": "Rini",
+      "lastname": "Perdana",
+      "email": "riniperdana@gmail.com",
+      "birthdate": "17 Feb 1995",
+      "basicsalary": "salary",
+      "status": "contract",
+      "group": "IT Developer",
+      "description": "quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto"
+  }
   ]
 }
