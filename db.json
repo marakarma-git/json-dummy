@@ -29,7 +29,7 @@
   "profile": {
     "name": "typicode"
   },
-  "employees": [
+  "employee": [
     {
         "id" : 1,
         "username": "marakarma",
